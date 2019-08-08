@@ -1,0 +1,5 @@
+usar index_admin.php para entrar na área administrativa do site, por enquanto provisória.
+
+index_admin.php chama logar.php.
+
+logar.php está provisoriamente chamando cadastros.php
